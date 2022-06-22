@@ -1,6 +1,8 @@
 # jangandibuang
 
-A new Flutter project.
+Jangan Dibuang is Indonesian translation for "Do Not Throw Away".
+This application is made to reduce food waste number, especially in Surabaya, Indonesia.
+Built with Flutter, this application is also equipped with Image Recognition Utilizing Tensorflow and Amazon Aurora Database
 
 ## Getting Started
 
